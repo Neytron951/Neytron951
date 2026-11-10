@@ -1,0 +1,240 @@
+{
+ "key": "5cf5af80",
+ "stars": 25,
+ "contributions": 130,
+ "repos": 6,
+ "followers": 1,
+ "languages": [
+  [
+   "Kotlin",
+   1971182
+  ],
+  [
+   "JavaScript",
+   114337
+  ],
+  [
+   "HTML",
+   101466
+  ],
+  [
+   "CSS",
+   65348
+  ],
+  [
+   "Python",
+   56627
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 10,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 6
+ },
+ "pins": [
+  {
+   "name": "Ethereal",
+   "url": "https://github.com/Neytron951/Ethereal",
+   "text": "Ethereal is a tile-based Android launcher. Compose, MVVM-free, minimal.",
+   "fork": false,
+   "stars": 14,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "compose",
+    "gplv3",
+    "launcher",
+    "spaces"
+   ]
+  },
+  {
+   "name": "SSHCommander",
+   "url": "https://github.com/Neytron951/SSHCommander",
+   "text": "Cross-platform SSH/SFTP client with terminal, tabs, widgets and biometric auth for Android, Windows or Linux..",
+   "fork": false,
+   "stars": 11,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "cross-platform",
+    "developer-tools",
+    "devtools",
+    "file-manager",
+    "open-source",
+    "quickstart",
+    "remote",
+    "remote-access"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "Ethereal",
+   "url": "https://github.com/Neytron951/Ethereal",
+   "text": "Ethereal is a tile-based Android launcher. Compose, MVVM-free, minimal.",
+   "fork": false,
+   "stars": 14,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "compose",
+    "gplv3",
+    "launcher",
+    "spaces"
+   ]
+  },
+  {
+   "name": "SSHCommander",
+   "url": "https://github.com/Neytron951/SSHCommander",
+   "text": "Cross-platform SSH/SFTP client with terminal, tabs, widgets and biometric auth for Android, Windows or Linux..",
+   "fork": false,
+   "stars": 11,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-app",
+    "cross-platform",
+    "developer-tools",
+    "devtools",
+    "file-manager",
+    "open-source",
+    "quickstart",
+    "remote",
+    "remote-access"
+   ]
+  },
+  {
+   "name": "Neytron951",
+   "url": "https://github.com/Neytron951/Neytron951",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SSHC_Scripts",
+   "url": "https://github.com/Neytron951/SSHC_Scripts",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "GK-GK",
+   "url": "https://github.com/Neytron951/GK-GK",
+   "text": "Flask Site For GK",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "GrindOs",
+   "url": "https://github.com/Neytron951/GrindOs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
