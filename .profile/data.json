@@ -1,6 +1,6 @@
 {
- "key": "1f6bba31",
- "stars": 32,
+ "key": "f00567a5",
+ "stars": 36,
  "contributions": 136,
  "repos": 6,
  "followers": 1,
@@ -137,7 +137,7 @@
    "url": "https://github.com/Neytron951/Ethereal",
    "text": "Ethereal is a tile-based Android launcher. Compose, MVVM-free, minimal.",
    "fork": false,
-   "stars": 21,
+   "stars": 25,
    "language": "Kotlin",
    "topics": [
     "android",
@@ -174,7 +174,7 @@
    "url": "https://github.com/Neytron951/Ethereal",
    "text": "Ethereal is a tile-based Android launcher. Compose, MVVM-free, minimal.",
    "fork": false,
-   "stars": 21,
+   "stars": 25,
    "language": "Kotlin",
    "topics": [
     "android",
